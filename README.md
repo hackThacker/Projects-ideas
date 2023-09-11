@@ -1,3 +1,27 @@
+# Top Programming Languages
+
+This table provides information about the top programming languages based on static data.
+
+| Programming Language | Job Demands | Trends | Learning Resources |
+|----------------------|------------|--------|---------------------|
+| JavaScript           | High       | Upward | [Learning JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| Python               | High       | Upward | [Python.org](https://www.python.org/doc/) |
+| Java                 | High       | Stable | [Java Tutorials](https://docs.oracle.com/javase/tutorial/) |
+| C++                  | High       | Stable | [C++ Reference](https://en.cppreference.com/w/cpp) |
+| C#                   | High       | Stable | [C# Fundamentals](https://docs.microsoft.com/en-us/dotnet/csharp/) |
+| Ruby                 | Moderate  | Declining | [Ruby Documentation](https://www.ruby-lang.org/en/documentation/) |
+| PHP                  | Moderate  | Declining | [PHP Manual](https://www.php.net/manual/en/) |
+| Swift                | High       | Stable | [Swift.org](https://swift.org/documentation/) |
+| TypeScript           | High       | Upward | [TypeScript Handbook](https://www.typescriptlang.org/docs/) |
+| Go                   | High       | Upward | [The Go Programming Language](https://golang.org/doc/) |
+| Kotlin               | High       | Upward | [Kotlin Documentation](https://kotlinlang.org/docs/) |
+| Rust                 | High       | Upward | [The Rust Programming Language](https://doc.rust-lang.org/book/) |
+| MATLAB               | High       | Stable | [MATLAB Documentation](https://www.mathworks.com/help/matlab/) |
+| R                    | High       | Upward | [R Documentation](https://www.rdocumentation.org/) |
+| Swift                | High       | Stable | [Swift.org](https://swift.org/documentation/) |
+
+
+
 # Programming Project Ideas
 
 Welcome to the Programming Project Ideas repository! Here, you'll find a curated list of project ideas categorized by programming languages and difficulty levels to help you hone your programming skills. Whether you're a very beginner, intermediate, advanced, or professional programmer, there's something here for everyone.
